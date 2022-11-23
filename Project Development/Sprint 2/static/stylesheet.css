@@ -5,7 +5,7 @@ body{
 
 .main {
     height: 100vh;
-    background: linear-gradient(45deg, #46fc95, #3f90fb);
+    background: linear-gradient(45deg, #3c3cb8, #b6609dfb);
     
 }
 
@@ -16,7 +16,7 @@ body{
 }
 
 #logo-i{
-    background-color: #adfb3f;
+    background-color: #3f7afb;
     backdrop-filter: blur(20px);
     color: #ffffff;
     font-weight: 700;
@@ -29,7 +29,7 @@ body{
 }
 
 #form{
-    background-color:  #46fcea ;
+    background-color: #5959c1 ;
     backdrop-filter: blur(20px);
     padding: 50px;
     margin-top: 30px;
@@ -38,7 +38,7 @@ body{
 }
 
 #form-search{
-    background-color: #46fcea ;
+    background-color: #5959c1 ;
     backdrop-filter: blur(20px);
     padding: 30px 50px 15px 50px;
     margin-top: 30px;
@@ -80,7 +80,7 @@ input {
 
     margin: auto;
              
-    background: linear-gradient(95deg, #46fc95, #3f90fb);       
+    background: linear-gradient(95deg, #3c3cb8, #b6609dfb);       
         text-align: center;
         text-transform: uppercase;
         transition: 0.5s;
@@ -136,7 +136,7 @@ a{
 }
 
 #continer-img{
-    background:linear-gradient(90deg, #46fc95, #3f90fb), url(food.jpg);
+    background:linear-gradient(90deg,#3c3cb8, #b6609dfb), url(food.jpg);
       background-size:cover;
     margin: auto;
     text-align: center;
@@ -194,7 +194,7 @@ td{
   .button{
     margin: auto;
              
-    background: linear-gradient(95deg, #46fc95, #3f90fb);       
+    background: linear-gradient(95deg, #3c3cb8, #b6609dfb);       
         text-align: center;
         text-transform: uppercase;
         transition: 0.5s;
